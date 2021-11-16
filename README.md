@@ -1,7 +1,9 @@
 # Crypto-Corrency-Finance-Price-Tracker-App
 This  is Cryptocorrency Tracker App made using cypto Api and  react.js .
 
- 
+   
+   
+   
 
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/79249131/138604895-fec96f11-fb54-41f4-ab95-b346e5804f69.png)
